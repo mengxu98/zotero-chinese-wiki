@@ -1,1 +1,0 @@
-import{_ as t,X as a,Y as c,Z as e,$ as n}from"./framework-a296e51a.js";const r={},s=e("h1",{id:"贡献指南",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#贡献指南","aria-hidden":"true"},"#"),n(" 贡献指南")],-1),o=[s];function _(d,i){return a(),c("div",null,o)}const l=t(r,[["render",_],["__file","index.html.vue"]]);export{l as default};
